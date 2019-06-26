@@ -193,6 +193,89 @@ ol, ul{
     width: 1200px; 
 } 
 
+#header_top_text {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 20px;
+    letter-spacing: 1.4px;
+    word-spacing: 1px;
+    color: #FFFFFF;
+    text-align: left;
+    margin-left: 25px;
+}
+
+#header_top_phone {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 10px;
+    color: #E5E5E5;
+    font-weight: 400;
+    text-align: right;
+    margin-top: 20px;
+}
+
+#header_top_image { 
+    float: right;
+    width: 10%;
+    padding-left: 1%;
+} 
+
+#navigation_bar {
+    float: center; 
+    width: 100%; 
+    height: 100%; 
+    margin: none; 
+} 
+      
+#navigation_bar ul { 
+    text-align: center; 
+    float: center; 
+    margin: none; 
+    background: #3C0F24; 
+} 
+      
+#navigation_bar li { 
+    display: inline-block; 
+    padding: none; 
+    margin: none; 
+} 
+      
+#navigation_bar li a, #navigation_bar li span { 
+    display: inline-block; 
+    padding: 0em 6.0em; 
+    text-decoration: none; 
+    font-weight: 350; 
+    line-height: 60px; 
+} 
+      
+#navigation_bar li a {
+    color: #FFF; 
+} 
+      
+#navigation_bar li:hover a, #navigation_bar li span { 
+    background: #FFF; 
+    color: #0074D9; 
+    border-left: 1px solid #0074D9; 
+    text-decoration: none; 
+}
+
+#main_text {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 16px;
+    letter-spacing: 0.4px;
+    word-spacing: 1px;
+    color: #AD0D70;
+    text-align: center;
+}
+
+#picture {
+    float: right;
+}
+
+#buttons {
+    float: left;
+    display: inline-block;
+}
+
+
 
 
 
