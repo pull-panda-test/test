@@ -2,12 +2,10 @@
 /*    Styling  Header    */
 /*************************/
 header{ 
-      
     overflow: hidden; 
 } 
   
-#top-header{ 
-          
+#top-header{   
     text-align: center; 
     height: 60px; 
 } 
