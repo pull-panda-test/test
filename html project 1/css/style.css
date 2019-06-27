@@ -64,9 +64,7 @@ header{
     text-decoration: none;
 }
 
-/*****************************/
 /* Styling Header Image Menu */
-/*****************************/
 #header-image-menu{
     top: 10px;
     position: relative;
@@ -88,9 +86,7 @@ header{
     text-align: center;
 }
 
-/**********************************/
 /* Styling Main content Section 1 */
-/**********************************/
 #welcome
 {   overflow: hidden;
     width: 1000px;
